@@ -6,7 +6,7 @@ def index(request):
     return render(request, 'first.html')
 
 
-def ouut(request):
+def outh(request):
     return render(request, 'logger_out.html')
 
 
